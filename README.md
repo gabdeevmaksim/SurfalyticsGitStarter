@@ -44,7 +44,3 @@ git branch -a
 ```bash
 git checkout main
 ```
-
-
-
-
